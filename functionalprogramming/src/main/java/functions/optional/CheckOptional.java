@@ -12,8 +12,8 @@ package functions.optional;
  */
 public class CheckOptional {
     public static void main(String[] args) {
-        ValueProvider provider = new ValueProvider();
-        provider.getValue().ifPresent(System.out::println);
+        //ValueProvider provider = new ValueProvider();
+        //provider.getValue().ifPresent(System.out::println);
         // use provider.getValue() to get Optional<String>
         // Optional<String> opt = provider.getValue();
         // opt.ifPresent(name -> System.out.println(name));
