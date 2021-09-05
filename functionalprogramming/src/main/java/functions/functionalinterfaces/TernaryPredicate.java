@@ -31,6 +31,6 @@ public class TernaryPredicate {
     public static final TernaryIntPredicate allValuesAreDifferentPredicate = (e1, e2, e3) -> {
         Set<Integer> tempSet = new HashSet<>(Arrays.asList(e1, e2, e3));
         return tempSet.size() == 3;
-    }
+    };
 
 }
