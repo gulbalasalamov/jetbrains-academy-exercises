@@ -1,4 +1,4 @@
-package practice;
+package functions.lambdaexpressions;
 
 import java.util.function.IntBinaryOperator;
 

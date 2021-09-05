@@ -5,4 +5,7 @@ include 'functionalprogramming'
 include 'functions'
 include 'functionalprogramming:functionalstreams'
 findProject(':functionalprogramming:functionalstreams')?.name = 'functionalstreams'
+include 'functionalprogramming:functions:methodreferences'
+findProject(':functionalprogramming:functions:methodreferences')?.name = 'methodreferences'
+include 'functionalprogramming2'
 
