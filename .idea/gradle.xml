@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/functionalprogramming" />
+            <option value="$PROJECT_DIR$/functionalprogramming/functionalstreams" />
+            <option value="$PROJECT_DIR$/functions" />
             <option value="$PROJECT_DIR$/lambdaexpressions" />
             <option value="$PROJECT_DIR$/problemofday" />
           </set>

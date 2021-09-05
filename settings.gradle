@@ -1,4 +1,8 @@
 rootProject.name = 'jetbrains-academy-exercises'
 include 'problemofday'
 include 'lambdaexpressions'
+include 'functionalprogramming'
+include 'functions'
+include 'functionalprogramming:functionalstreams'
+findProject(':functionalprogramming:functionalstreams')?.name = 'functionalstreams'
 
