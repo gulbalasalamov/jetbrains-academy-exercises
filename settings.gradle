@@ -1,3 +1,4 @@
 rootProject.name = 'jetbrains-academy-exercises'
 include 'problemofday'
+include 'lambdaexpressions'
 
