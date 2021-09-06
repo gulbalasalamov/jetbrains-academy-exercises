@@ -33,20 +33,20 @@ import java.util.Optional;
  * Sample Output:
  * 12
  */
-public class SumUpOptionalValues {
-    public static void main(String[] args) {
-        ValueProvider provider = new ValueProvider();
-        // use provider.getValues() to get List<Optional<Integer>>
-        List<Optional<Integer>> optionals = provider.getValues();
-        int sum = 0;
-        int num = 0;
-        for (Optional o : optionals) {
-            if (o.isPresent()) {
-                num = (int) o.get();
-                sum += num;
-            }
-        }
-        System.out.println(sum);
-    }
-
-}
+//public class SumUpOptionalValues {
+//    public static void main(String[] args) {
+//        ValueProvider provider = new ValueProvider();
+//        // use provider.getValues() to get List<Optional<Integer>>
+//        List<Optional<Integer>> optionals = provider.getValues();
+//        int sum = 0;
+//        int num = 0;
+//        for (Optional o : optionals) {
+//            if (o.isPresent()) {
+//                num = (int) o.get();
+//                sum += num;
+//            }
+//        }
+//        System.out.println(sum);
+//    }
+//
+//}

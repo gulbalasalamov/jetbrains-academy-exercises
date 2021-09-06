@@ -29,3 +29,11 @@ Sfunctionalprogramming/src/main/java/functions/lambdaexpressions/NextEvenNumber.
 _functionalprogramming/src/main/java/functions/lambdaexpressions/ProductOfAllNumbersInRange.java,a/c/ac1b51adb7320e589c0a28f2686249a77b41f166
 R
 "functionalprogramming/build.gradle,c/d/cd5ba1a7d6f81e4aaf83717b4fe70196b69d993c
+é
+^functionalprogramming/src/main/java/functions/methodreferences/AscendingDescendingSorting.java,5/b/5b05971d0a4dafcf4c303b66a26aa663f05ca405
+ä
+Zfunctionalprogramming/src/main/java/functions/functioncomposition/CombiningPredicates.java,4/9/4966800187aeb8b508a4b7d8e9a6375ed2941461
+ê
+`functionalprogramming/src/main/java/functions/functionalinterfaces/LambdaWithSevenArguments.java,4/9/494decebc28b0f6a2d9f790bc0ce1ef5494be012
+à
+Xfunctionalprogramming/src/main/java/functions/functionalinterfaces/TernaryPredicate.java,1/c/1c7f5b5a51b55ebb92010d7cb483f1715e4977a1
