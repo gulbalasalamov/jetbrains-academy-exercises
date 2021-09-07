@@ -21,8 +21,6 @@ V.idea/modules/lambdaexpressions/jetbrains-academy-exercises.lambdaexpressions.t
 Tfunctionalprogramming/src/main/java/functions/lambdaexpressions/CreatingClosure.java,6/9/694936323c25d37fcc37c69462f766ceb401e5fc
 Ü
 Vfunctionalprogramming/src/main/java/functions/lambdaexpressions/ExpressionClosure.java,4/c/4c2c21c783d73202a02fa0197d1bd03aed8abf7f
-Ö
-Ufunctionalprogramming/src/main/java/functions/lambdaexpressions/MaxOfTwoIntegers.java,c/0/c0173df6ac4e4a32520334ece2c7b51deb59550f
 É
 Sfunctionalprogramming/src/main/java/functions/lambdaexpressions/NextEvenNumber.java,4/3/439ce4936ff45475b3b5b499775d8c339d30b922
 è
