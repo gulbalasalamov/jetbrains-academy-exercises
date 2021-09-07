@@ -37,3 +37,7 @@ Zfunctionalprogramming/src/main/java/functions/functioncomposition/CombiningPred
 `functionalprogramming/src/main/java/functions/functionalinterfaces/LambdaWithSevenArguments.java,4/9/494decebc28b0f6a2d9f790bc0ce1ef5494be012
 ˆ
 Xfunctionalprogramming/src/main/java/functions/functionalinterfaces/TernaryPredicate.java,1/c/1c7f5b5a51b55ebb92010d7cb483f1715e4977a1
+p
+@functionalprogramming/src/main/java/functions/optional/Main.java,4/7/47c429355875be29712854b6683dd7efcc294567
+y
+Ifunctionalprogramming/src/main/java/functions/optional/CheckOptional.java,4/c/4c0fb2626c4fdbdd401db331f51f8e5e589486e5
