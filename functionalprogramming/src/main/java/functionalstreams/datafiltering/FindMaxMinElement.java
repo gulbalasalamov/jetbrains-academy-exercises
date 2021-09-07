@@ -1,4 +1,4 @@
-package functionalstreams.functionaldataprocessing;
+package functionalstreams.datafiltering;
 
 import java.util.Comparator;
 import java.util.List;
