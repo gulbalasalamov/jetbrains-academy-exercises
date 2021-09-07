@@ -24,5 +24,11 @@ public class FindMaxMinElement {
         List<? extends T> list = stream.collect(Collectors.toList());
         minMaxConsumer.accept(list.stream().min(order).orElse(null), list.stream().max(order).orElse(null));
 
+        var v = stream.collect(Collectors.toList());
+        var a = v.stream().min(order).orElse(null);
+        var b = v.stream().min(order).orElse(null);
+        minMaxConsumer.accept(a,b);
+
+
     }
 }
