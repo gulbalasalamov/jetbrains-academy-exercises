@@ -39,3 +39,9 @@ p
 @functionalprogramming/src/main/java/functions/optional/Main.java,4/7/47c429355875be29712854b6683dd7efcc294567
 y
 Ifunctionalprogramming/src/main/java/functions/optional/CheckOptional.java,4/c/4c0fb2626c4fdbdd401db331f51f8e5e589486e5
+
+Ofunctionalprogramming/src/main/java/functions/optional/CreateOptionalValue.java,c/5/c51592d83689030b12a669ffba95d9a2eca15d9b
+}
+Mfunctionalprogramming/src/main/java/functionalstreams/datafiltering/Main.java,a/d/ada0c9402bb469e90747757702de2a233b539b4e
+Ž
+^functionalprogramming/src/main/java/functionalstreams/datafiltering/PrintElementsOfStream.java,9/0/908fa3a483a11407968b28e65660ba94b57d1d8f
