@@ -45,3 +45,17 @@ Ofunctionalprogramming/src/main/java/functions/optional/CreateOptionalValue.java
 Ufunctionalprogramming/src/main/java/functions/lambdaexpressions/MaxOfTwoIntegers.java,c/0/c0173df6ac4e4a32520334ece2c7b51deb59550f
 
 Ofunctionalprogramming/src/main/java/functions/optional/SumUpOptionalValues.java,5/5/55e104c44bd55ce849ca8bdcd4e87c40fd08042c
+z
+Jfunctionalprogramming/src/main/java/functionalstreams/collectors/Test.java,0/4/04dd0fee5883d4d29e68e0179f4cf3a6d0f2b0f8
+„
+Tfunctionalprogramming/src/main/java/functionalstreams/collectors/DetermineValue.java,c/d/cd29c85ae4c8a5fa8beebec1562fc91c0de4bd84
+Š
+Zfunctionalprogramming/src/main/java/functionalstreams/datafiltering/FindMaxMinElement.java,5/b/5bb68f64c14ee5a04e509a179fd4c104f954bacf
+}
+Mfunctionalprogramming/src/main/java/functionalstreams/datafiltering/Main.java,a/d/ada0c9402bb469e90747757702de2a233b539b4e
+Ž
+^functionalprogramming/src/main/java/functionalstreams/datafiltering/PrintElementsOfStream.java,9/0/908fa3a483a11407968b28e65660ba94b57d1d8f
+…
+Ufunctionalprogramming/src/main/java/functionalstreams/datafiltering/SortedStream.java,9/0/90a03e781c9c7e8c1f4f6c579bcc62ec8110596c
+Œ
+\functionalprogramming/src/main/java/functionalstreams/mapandflatmap/MaxOfAbsoluteValues.java,3/6/36cff63ead1a6eb34d98ddb50c99909cb83f008b
