@@ -59,3 +59,5 @@ Mfunctionalprogramming/src/main/java/functionalstreams/datafiltering/Main.java,
 Ufunctionalprogramming/src/main/java/functionalstreams/datafiltering/SortedStream.java,9/0/90a03e781c9c7e8c1f4f6c579bcc62ec8110596c
 Œ
 \functionalprogramming/src/main/java/functionalstreams/mapandflatmap/MaxOfAbsoluteValues.java,3/6/36cff63ead1a6eb34d98ddb50c99909cb83f008b
+†
+Vfunctionalprogramming/src/main/java/functionalstreams/mapandflatmap/SortAbsValues.java,8/d/8d8b5af9f0bac21642315b79feb6978e6d8ddad0
