@@ -9,8 +9,6 @@ X
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 I
 problemofday/build.gradle,e/f/ef72314c418dffab634a5acf90b3eacb1368294b
-h
-8problemofday/src/main/java/CountNumbersDivisibleByN.java,3/2/32fa4192dfe5dff397b2f1f15bbd03eadfa6c775
 v
 F.idea/modules/functions/jetbrains-academy-exercises.functions.test.iml,2/b/2b538f6f91b65357f9cc457e28eb404cfd6fb205
 †
