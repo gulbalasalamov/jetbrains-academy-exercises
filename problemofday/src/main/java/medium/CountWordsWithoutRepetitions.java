@@ -6,13 +6,13 @@ import java.util.*;
  * https://hyperskill.org/learn/step/3830
  * Count the number of unique words ignoring case sensitivity for given lines with words.
  * The first line contains the number n. The next n lines contain words separated by a space.
- *
+ * <p>
  * Sample Input 1:
  * 3
  * Word word wORD
  * line Line SplinE word
  * spline align Java java
- *
+ * <p>
  * Sample Output 1:
  * 5
  */
@@ -39,6 +39,7 @@ public class CountWordsWithoutRepetitions {
 
     /**
      * Using functional programming
+     *
      * @param n
      * @param lines
      * @return
@@ -63,7 +64,6 @@ public class CountWordsWithoutRepetitions {
         while (scanner.hasNextLine() && !(line = scanner.nextLine()).isEmpty()) {
             lines.add(Arrays.asList(line.split("\\s+")));
         }
-
         System.out.println(count(n, lines));
     }
 }
