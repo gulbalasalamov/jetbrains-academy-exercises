@@ -27,6 +27,9 @@ public class TernaryPredicate {
     public interface TernaryIntPredicate {
         boolean test(int a, int b, int c);
     }
+    //Options 2
+    public static final TernaryIntPredicate areValuesDifferent = (a,b,c) -> (a!=b) && (a!=c);
+
 
     public static final TernaryIntPredicate allValuesAreDifferentPredicate = (e1, e2, e3) -> {
         Set<Integer> tempSet = new HashSet<>(Arrays.asList(e1, e2, e3));
