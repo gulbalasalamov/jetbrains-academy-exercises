@@ -23,8 +23,6 @@ p
 @functionalprogramming/src/main/java/functions/optional/Main.java,4/7/47c429355875be29712854b6683dd7efcc294567
 
 Ofunctionalprogramming/src/main/java/functions/optional/CreateOptionalValue.java,c/5/c51592d83689030b12a669ffba95d9a2eca15d9b
-
-Ofunctionalprogramming/src/main/java/functions/optional/SumUpOptionalValues.java,5/5/55e104c44bd55ce849ca8bdcd4e87c40fd08042c
 z
 Jfunctionalprogramming/src/main/java/functionalstreams/collectors/Test.java,0/4/04dd0fee5883d4d29e68e0179f4cf3a6d0f2b0f8
 „

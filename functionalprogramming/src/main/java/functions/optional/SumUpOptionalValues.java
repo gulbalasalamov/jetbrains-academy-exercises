@@ -50,3 +50,16 @@ import java.util.Optional;
 //    }
 //
 //}
+
+//More improved version
+//        for (Optional<Integer> o : tempList) {
+//        sum += o.orElse(0);
+//        }
+//        System.out.println(sum);
+
+////Using streams
+//     provider.getValues().stream()
+//             .filter(Optional::isPresemt)
+//             .mapToInt(Optional::get)
+//             .reduce(Integer::sum)
+//             .orElse(0);
