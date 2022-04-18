@@ -17,12 +17,6 @@ V.idea/modules/lambdaexpressions/jetbrains-academy-exercises.lambdaexpressions.t
 _functionalprogramming/src/main/java/functions/lambdaexpressions/ProductOfAllNumbersInRange.java,a/c/ac1b51adb7320e589c0a28f2686249a77b41f166
 R
 "functionalprogramming/build.gradle,c/d/cd5ba1a7d6f81e4aaf83717b4fe70196b69d993c
-Š
-Zfunctionalprogramming/src/main/java/functions/functioncomposition/CombiningPredicates.java,4/9/4966800187aeb8b508a4b7d8e9a6375ed2941461
-p
-@functionalprogramming/src/main/java/functions/optional/Main.java,4/7/47c429355875be29712854b6683dd7efcc294567
-
-Ofunctionalprogramming/src/main/java/functions/optional/CreateOptionalValue.java,c/5/c51592d83689030b12a669ffba95d9a2eca15d9b
 z
 Jfunctionalprogramming/src/main/java/functionalstreams/collectors/Test.java,0/4/04dd0fee5883d4d29e68e0179f4cf3a6d0f2b0f8
 „

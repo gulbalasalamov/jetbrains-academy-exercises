@@ -32,7 +32,7 @@ public class Main {
         String name = scanner.nextLine();
         Optional<String> optAddress = AddressBook.getAddressByName(name);
         optAddress.ifPresentOrElse(
-                address -> System.out.println(name + " lives at " + address),
+                (String address) -> System.out.println(name + " lives at " + address),
                 () -> System.out.println("Unknown")
         );
         // write your code here
