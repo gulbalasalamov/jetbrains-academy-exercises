@@ -8,8 +8,8 @@ package functions.optional;
  *         // hidden code
  *     }
  * }
- * Write a code in the Main class that prints the returning value of the valueProvider.getValue if it is not null.
- */
+     * Write a code in the Main class that prints the returning value of the valueProvider.getValue if it is not null.
+     */
 public class CheckOptional {
     public static void main(String[] args) {
         //ValueProvider provider = new ValueProvider();
