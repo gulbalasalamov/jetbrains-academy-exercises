@@ -6,17 +6,16 @@ import java.util.Scanner;
 
 /**
  * Let's say you are developing a banking system. There are two classes in this system:
- * <p>
+ *
  * Transaction with the fields uuid (String), the State enum (CANCELED, FINISHED, PROCESSING), sum (Long)
  * Account with the fields number (String), balance (Long), and transactions (List<Transaction>)
  * Both classes have getters for all fields with the corresponding names (getState(), getSum(), getTransactions() and so on).
- * <p>
+ *
  * Using Stream API, implement a method that calculates the total sum of canceled transactions for all non-empty accounts (balance > 0). Perhaps, flatMap method can help you to implement it.
- * <p>
  * Important. Use the given template for your method. Pay attention to type of an argument and the returned value. Please, use only Stream API without loops.
- * <p>
+ *
  * Examples: there are 2 accounts (in JSON notation) below. The result is 10 000.
- * <p>
+ *
  * [
  * {
  * "number": "1001",

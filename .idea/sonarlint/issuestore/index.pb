@@ -59,3 +59,5 @@ Ofunctionalprogramming/src/main/java/functions/optional/SumUpOptionalValues.java
 `functionalprogramming/src/main/java/functions/functionalinterfaces/LambdaWithSevenArguments.java,4\9\494decebc28b0f6a2d9f790bc0ce1ef5494be012
 p
 @functionalprogramming/src/main/java/functions/optional/Main.java,4\7\47c429355875be29712854b6683dd7efcc294567
+
+Ofunctionalprogramming/src/main/java/functions/optional/CreateOptionalValue.java,c\5\c51592d83689030b12a669ffba95d9a2eca15d9b
