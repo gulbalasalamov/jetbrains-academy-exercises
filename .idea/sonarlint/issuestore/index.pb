@@ -61,3 +61,13 @@ p
 @functionalprogramming/src/main/java/functions/optional/Main.java,4\7\47c429355875be29712854b6683dd7efcc294567
 
 Ofunctionalprogramming/src/main/java/functions/optional/CreateOptionalValue.java,c\5\c51592d83689030b12a669ffba95d9a2eca15d9b
+ç
+]functionalprogramming/src/main/java/functionalstreams/streampipelines/TransactionExample.java,1\4\142126ddb10f12a7564966917c1499de3aa1aa6d
+Ö
+Ufunctionalprogramming/src/main/java/functions/lambdaexpressions/MaxOfTwoIntegers.java,c\0\c0173df6ac4e4a32520334ece2c7b51deb59550f
+è
+_functionalprogramming/src/main/java/functions/lambdaexpressions/ProductOfAllNumbersInRange.java,a\c\ac1b51adb7320e589c0a28f2686249a77b41f166
+é
+^functionalprogramming/src/main/java/functions/methodreferences/AscendingDescendingSorting.java,5\b\5b05971d0a4dafcf4c303b66a26aa663f05ca405
+ä
+Zfunctionalprogramming/src/main/java/functions/functioncomposition/CombiningPredicates.java,4\9\4966800187aeb8b508a4b7d8e9a6375ed2941461
