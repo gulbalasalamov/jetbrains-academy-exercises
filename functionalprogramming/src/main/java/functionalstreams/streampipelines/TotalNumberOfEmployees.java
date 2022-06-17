@@ -1,7 +1,35 @@
 package functionalstreams.streampipelines;
 
-import java.util.Collection;
 import java.util.List;
+
+/* Example
+[
+  {
+    "name": "dep-1",
+    "code": "111-1",
+    "employees": [
+      {
+        "name": "William",
+        "salary": 20000
+      },
+      {
+        "name": "Sophia",
+        "salary": 10000
+      }
+    ]
+  },
+  {
+    "name": "dep-2",
+    "code": "222-1",
+    "employees": [
+      {
+        "name": "John",
+        "salary": 50000
+      }
+    ]
+  }
+]
+ */
 
 public class TotalNumberOfEmployees {
 
