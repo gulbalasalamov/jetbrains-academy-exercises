@@ -9,7 +9,7 @@ public class Example2 {
         var result = numbers.stream()
                 .filter(n -> n<4)
                 .map(n -> n * n)
-                .filter(n -> n <10)
+                .filter(n -> n <10)//
                 .distinct()
                 .collect(Collectors.toList());
         result.forEach(System.out::println);

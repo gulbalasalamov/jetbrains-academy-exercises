@@ -1,0 +1,11 @@
+
+x
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'UnaryOperator<T>'(ª–ü¦ûÿÿÿÿ8–Ý•ô‚0
+]	java:S125"<This block of commented-out lines of code should be removed.(Àû¶ñûÿÿÿÿ8¥Ý•ô‚0
+a
+java:S3358"DExtract this nested ternary operation into an independent statement.(¢ü¬†8¥Ý•ô‚0
+a
+java:S3358"DExtract this nested ternary operation into an independent statement.(÷ˆõ‚8¥Ý•ô‚0
+a
+java:S3358 "DExtract this nested ternary operation into an independent statement.(ÔÌôþ8¥Ý•ô‚0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(»øçåýÿÿÿÿ8¥Ý•ô‚0

@@ -31,6 +31,10 @@ import java.util.List;
 ]
  */
 
+/**
+ * https://hyperskill.org/learn/step/2447#comment
+ */
+
 public class TotalNumberOfEmployees {
 
     /**

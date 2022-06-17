@@ -1,0 +1,6 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¹ÅÍ8ãûÀ¦»/
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ù÷úÿÿÿÿ8çûÀ¦»/
+]	java:S125""<This block of commented-out lines of code should be removed.(­ŸñÜûÿÿÿÿ8ñûÀ¦»/
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(İÄäÃ8‰üÀ¦»/
