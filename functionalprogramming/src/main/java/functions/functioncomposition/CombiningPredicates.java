@@ -53,5 +53,6 @@ public class CombiningPredicates {
         values.forEach(v -> predicates.add(x -> v));
 
         System.out.println(disjunctAll(predicates).test(0));
+        // added comment
     }
 }
