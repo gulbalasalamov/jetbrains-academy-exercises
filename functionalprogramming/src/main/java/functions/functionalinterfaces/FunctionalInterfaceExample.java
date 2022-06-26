@@ -14,8 +14,8 @@ import java.util.stream.Collectors;
  *
  * Write code for filtering the accounts list using the filter method in two ways:
  *
- *     get all non-empty accounts (balance > 0) and save it to the variable nonEmptyAccounts
- *     get all non-locked accounts with too much money (balance >= 100 000 000) and save it to the variable accountsWithTooMuchMoney
+ *    get all non-empty accounts (balance > 0) and save it to the variable nonEmptyAccounts
+ *    get all non-locked accounts with too much money (balance >= 100 000 000) and save it to the variable accountsWithTooMuchMoney
  *
  * Important. Use the given code template for your solution. Do not change it!
  *
