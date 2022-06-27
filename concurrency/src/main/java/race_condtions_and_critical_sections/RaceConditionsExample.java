@@ -1,6 +1,7 @@
 package race_condtions_and_critical_sections;
 
 
+//Race conditions occurs if only if two threads read and write same variable
 public class RaceConditionsExample {
     /**
      * THis is the example two threads reading and modifying and writing back the value
