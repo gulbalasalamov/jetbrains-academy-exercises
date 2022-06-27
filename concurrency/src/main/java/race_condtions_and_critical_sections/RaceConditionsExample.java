@@ -46,6 +46,7 @@ class Counter {
 
     /**
      * This is critical section. The way to fix critical section is setting this atomic.
+     * Read-modify-write solution with atomic, synchronized block.
      * Atomic means that only one thread can execute within the critical section at a given time.
      * Once you make a critical section atomic, you get sequential access to the crtical section and
      * you can force behaviour of counter.
