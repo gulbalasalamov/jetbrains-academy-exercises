@@ -83,3 +83,5 @@ Wfunctionalprogramming/src/main/java/functions/functionalinterfaces/TernaryOpera
 Xfunctionalprogramming/src/main/java/functions/functionalinterfaces/TernaryPredicate.java,1\c\1c7f5b5a51b55ebb92010d7cb483f1715e4977a1
 ê
 `functionalprogramming/src/main/java/functions/functionalinterfaces/LambdaWithSevenArguments.java,4\9\494decebc28b0f6a2d9f790bc0ce1ef5494be012
+è
+_functionalprogramming/src/main/java/functions/lambdaexpressions/ApplyFunctionToAllElements.java,a\6\a666eaa16f9302c2bede7a8fbb9c5512a7eee033
