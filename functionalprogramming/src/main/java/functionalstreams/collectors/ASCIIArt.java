@@ -34,5 +34,6 @@ public class ASCIIArt {
         Scanner scanner = new Scanner(System.in);
         List<String> symbols = Arrays.asList(scanner.nextLine().split("\\s+"));
         System.out.println(asciiArt(symbols));
+
     }
 }

@@ -85,3 +85,11 @@ Xfunctionalprogramming/src/main/java/functions/functionalinterfaces/TernaryPredi
 `functionalprogramming/src/main/java/functions/functionalinterfaces/LambdaWithSevenArguments.java,4\9\494decebc28b0f6a2d9f790bc0ce1ef5494be012
 è
 _functionalprogramming/src/main/java/functions/lambdaexpressions/ApplyFunctionToAllElements.java,a\6\a666eaa16f9302c2bede7a8fbb9c5512a7eee033
+ä
+Zfunctionalprogramming/src/main/java/functions/functioncomposition/CombiningPredicates.java,4\9\4966800187aeb8b508a4b7d8e9a6375ed2941461
+Ñ
+Tfunctionalprogramming/src/main/java/functions/lambdaexpressions/CreatingClosure.java,6\9\694936323c25d37fcc37c69462f766ceb401e5fc
+Ü
+Vfunctionalprogramming/src/main/java/functions/lambdaexpressions/ExpressionClosure.java,4\c\4c2c21c783d73202a02fa0197d1bd03aed8abf7f
+í
+bfunctionalprogramming/src/main/java/functions/functionalinterfaces/FunctionalInterfaceExample.java,7\0\70dbc9321f01e76205b29419d2201bde7699f432
